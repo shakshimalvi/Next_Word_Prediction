@@ -454,6 +454,3 @@ https://www.linkedin.com/in/shakshi-malvi/
 
 ---
 
-## ⭐ If you found this project useful
-
-Feel free to explore the repository and give it a ⭐ on GitHub.
